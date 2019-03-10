@@ -5,7 +5,7 @@ md5 hash algorithm in C
 
 ### Clone
 
-- Clone this repo using `https://github.com/angerysama/md5`
+- Clone this repo using `git clone https://github.com/angerysama/md5`
 
 ### Build
 
@@ -22,7 +22,7 @@ Replace [string] by the sentence you want to hash, the hash will be displayed on
 
 ### Clone
 
-- Cloner ce repo avec `https://github.com/angerysama/md5`
+- Cloner ce repo avec `git clone https://github.com/angerysama/md5`
 
 ### Compilation
 
